@@ -21,7 +21,7 @@ namespace CreateStruct
     }
       static void Main(string[] args)
     {
-      Person p = new Person("Tony", "Allen", 32);
+      Person p = new Person("Андрей", "Дяченко", 19);
       Console.WriteLine(p);
     }
   }
